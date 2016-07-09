@@ -20,7 +20,6 @@ As for the LMS administrators have full control permission throughout the three 
 **Server:** MySQL Wamp Server 15.79
 
 ### Installation & Set Up Guide
-**Installtion Steps:**
 1. Download the project to your local repository directory.
 
 2.Launch Netbeans iDE and import the project as an existing Netbeans project.
@@ -30,7 +29,7 @@ inside the lib folder.
 
 ### Database Configuration
 1. Download and install [MySQL Wamp Server](https://sourceforge.net/projects/wampserver/). This application uses wampserver3_x86_apache2.4.17_mysql5.7.9_php5.6.15
-2. Create a database named library and migrate table and data to the newly created database by importing the exising library sql schema from library.sql file insde the mysql_db folder.
+2. Create a database named library and migrate tables and data to the newly created database by importing the exising library sql schema from library.sql file insde the mysql_db folder.
 
 ### Version
 1.1.0
