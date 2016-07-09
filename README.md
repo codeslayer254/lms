@@ -29,7 +29,7 @@ As for the LMS administrators have full control permission throughout the three 
 inside the lib folder.
 
 ### Database Configuration
-1. Download and install MySQL Wamp Server from url This application uses  wampserver3_x86_apache2.4.17_mysql5.7.9_php5.6.15
+1. Download and install MySQL Wamp Server from [a link](https://github.com/user/repo/blob/branch/other_file.md). This application uses  wampserver3_x86_apache2.4.17_mysql5.7.9_php5.6.15
 2. Create a database named library and migrate table and data to the newly created database by importing the exising library sql schema from library.sql file insde the mysql_db folder.
 
 ### Version
