@@ -22,7 +22,9 @@ As for the LMS administrators have full control permission throughout the three 
 ### Installation & Set Up Guide
 **Installtion Steps:**
 1. Download the project to your local repository directory.
+
 2. Import the project as an existing Netbeans project.
+
 3. Add required libraries mysql-connector-java-5.1.18-bin.jar and rs2xml.jar to your project. The 2 jar files are included 
 insde the lib folder.
 
