@@ -205,7 +205,7 @@ public class GuestPanel extends javax.swing.JFrame {
                 menuBtnActionPerformed(evt);
             }
         });
-        getContentPane().add(menuBtn, new org.netbeans.lib.awtextra.AbsoluteConstraints(790, 10, 110, 30));
+        getContentPane().add(menuBtn, new org.netbeans.lib.awtextra.AbsoluteConstraints(800, 20, 120, 30));
 
         jLabel8.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel8.setText("Candidates For Election");
@@ -220,8 +220,8 @@ public class GuestPanel extends javax.swing.JFrame {
 
     private void menuBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuBtnActionPerformed
 
-        GuestPanel panel = new GuestPanel();
-        panel.setVisible(true);
+        Login login = new Login();
+        login.setVisible(true);
         dispose();
     }//GEN-LAST:event_menuBtnActionPerformed
 
