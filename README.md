@@ -1,7 +1,6 @@
-# lms
-Library Management System Implemeted using object oriented principles of Java
+# lms: Library Management System Implemeted using object oriented principles of Java
 
-### The LMS provides primarily; books management service. 
+The LMS provides primarily; books management service. 
 
 Three types of users can access the system; 
 administrators, librarians, and the library visitors (guests). The visitors can access the LMS as guests, without the need for any credentials; with the minimum 
