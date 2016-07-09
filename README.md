@@ -1,4 +1,4 @@
-# lms: Library Management System Implemeted using object oriented principles of Java
+# lms: Library Management System Implemented using object oriented principles of Java
 
 The LMS provides primarily; books management service. 
 
