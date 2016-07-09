@@ -11,11 +11,8 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javafx.scene.paint.Color;
 import javax.swing.JOptionPane;
 import library.dao.LibrarianDao;
 import library.model.TransactionHistory;
@@ -26,7 +23,7 @@ import net.proteanit.sql.DbUtils;
  *
  * @author User
  */
-public class BooksPanel extends javax.swing.JFrame {
+public final class BooksPanel extends javax.swing.JFrame {
 
     /**
      * Creates new form Research
@@ -39,8 +36,6 @@ public class BooksPanel extends javax.swing.JFrame {
     long bookId = 0;
     private Users borrower;
     private Book currentBook;
-
-    private TransactionHistory transactionHistory;
 
     public BooksPanel() {
         initComponents();
