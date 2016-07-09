@@ -23,10 +23,10 @@ As for the LMS administrators have full control permission throughout the three 
 **Installtion Steps:**
 1. Download the project to your local repository directory.
 
-2. Import the project as an existing Netbeans project.
+2.Launch Netbeans iDE and import the project as an existing Netbeans project.
 
 3. Add required libraries mysql-connector-java-5.1.18-bin.jar and rs2xml.jar to your project. The 2 jar files are included 
-insde the lib folder.
+inside the lib folder.
 
 ### Database Configuration
 1. Download and install MySQL Wamp Server from url This application uses  wampserver3_x86_apache2.4.17_mysql5.7.9_php5.6.15
